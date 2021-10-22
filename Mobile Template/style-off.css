@@ -1,0 +1,610 @@
+/* PUT YOUR STYLES HERE */
+
+/* This will constrain the display area
+to mimic a phone */
+#container {
+    position: relative;
+    width: 360px;
+    height: 640px;
+    margin: auto;
+    border: 4px black solid;
+    overflow-y: scroll;
+}
+#Cop_Track_Officer {
+	position: absolute;
+	width: 360px;
+	height: 900px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Cop Track Officer;
+	--web-view-id: Cop_Track_Officer;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Main-header {
+	position: absolute;
+	width: 360px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Main-header-box {
+	fill: rgba(48,95,124,1);
+}
+.Main-header-box {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+}
+#Officer-profile-head {
+	position: absolute;
+	width: 360px;
+	height: 197px;
+	left: 0px;
+	top: 52px;
+	overflow: visible;
+}
+#Rectangle_30 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 149px;
+	left: 0px;
+	top: 48px;
+}
+#Officer-head-box {
+	fill: rgba(31,36,39,1);
+}
+.Officer-head-box {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Frederick_M_Mendez {
+	left: 130.5px;
+	top: 71.156px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.28px;
+}
+#Police_Officer {
+	left: 130.5px;
+	top: 93.576px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	line-height: 14px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(76,76,76,1);
+	letter-spacing: 0.26px;
+}
+#n_4_ALLEGATIONS {
+	left: 130.5px;
+	top: 160.707px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	line-height: 14px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(238,73,79,1);
+	letter-spacing: 0.6px;
+}
+#District_13 {
+	left: 130.5px;
+	top: 140.287px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(76,76,76,1);
+	letter-spacing: 0.26px;
+}
+#Cop-icon {
+	position: absolute;
+	width: 93.878px;
+	height: 94.139px;
+	left: 16px;
+	top: 73.371px;
+	overflow: visible;
+}
+#Ellipse_4 {
+	fill: rgba(221,221,221,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 93.878px;
+	height: 94.139px;
+	left: 0px;
+	top: 0px;
+}
+#Cop-Hat-Png {
+	position: absolute;
+	width: 61.794px;
+	height: 61.794px;
+	left: 16.242px;
+	top: 16.026px;
+	overflow: visible;
+}
+#Active-circle {
+	fill: rgba(136,201,125,1);
+}
+.Active-circle {
+	position: absolute;
+	overflow: visible;
+	width: 7.973px;
+	height: 8px;
+	left: 101.905px;
+	top: 75.156px;
+}
+#n_4393 {
+	left: 148px;
+	top: 117.73px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(76,76,76,1);
+	letter-spacing: 0.26px;
+}
+#Path_8 {
+	fill: rgba(0,0,0,1);
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 12.387px;
+	height: 13.063px;
+	left: 130.5px;
+	top: 116.198px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Officer-Header {
+	left: 82px;
+	top: 16.5px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,0.902);
+}
+#ALLEGATIONS {
+	position: absolute;
+	width: 360px;
+	height: 467.895px;
+	left: 0px;
+	top: 248.5px;
+	overflow: visible;
+}
+#Backgrounds {
+	position: absolute;
+	width: 360px;
+	height: 420px;
+	left: 0px;
+	top: 47.895px;
+	overflow: visible;
+}
+#Rectangle_23 {
+	fill: rgba(247,247,247,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 420px;
+	left: 0px;
+	top: 0px;
+}
+#Phone {
+	position: absolute;
+	width: 307.836px;
+	height: 373.219px;
+	left: 25.332px;
+	top: 67.541px;
+	overflow: visible;
+}
+#Group_37 {
+	position: absolute;
+	width: 307.836px;
+	height: 109.646px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_36 {
+	position: absolute;
+	width: 307.836px;
+	height: 109.646px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_35 {
+	position: absolute;
+	width: 307.836px;
+	height: 109.646px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_27 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_27 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 325.836px;
+	height: 127.646px;
+	left: 0px;
+	top: 0px;
+}
+#n_9122018 {
+	left: 25.311px;
+	top: 19.924px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.36px;
+}
+#Penalty_Oral_Reprimand {
+	left: 25.311px;
+	top: 80.723px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(76,76,76,1);
+	letter-spacing: 0.26px;
+}
+#Allegation_Respectful_Treatmen {
+	left: 25.311px;
+	top: 39.268px;
+	position: absolute;
+	overflow: visible;
+	width: 259.715px;
+	height: 23.738622665405273px;
+	line-height: 40.80000305175781px;
+	margin-top: -14.900001525878906px;
+	text-align: left;
+	font-family: Helvetica-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(238,73,79,1);
+	letter-spacing: 0.46px;
+}
+#Sustained {
+	left: 25.311px;
+	top: 60.634px;
+	position: absolute;
+	overflow: visible;
+	width: 259.715px;
+	height: 12.74505615234375px;
+	line-height: 31.200000762939453px;
+	margin-top: -10.600000381469727px;
+	text-align: left;
+	font-family: Helvetica-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(85,165,66,1);
+	letter-spacing: 0.46px;
+}
+#Group_42 {
+	position: absolute;
+	width: 307.836px;
+	height: 240.052px;
+	left: 0px;
+	top: 133.167px;
+	overflow: visible;
+}
+#Group_36_ba {
+	position: absolute;
+	width: 307.836px;
+	height: 240.052px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_26 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_26 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 325.836px;
+	height: 127.646px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_28 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_28 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 325.836px;
+	height: 127.646px;
+	left: 0px;
+	top: 130.406px;
+}
+#Rectangle_4 {
+	fill: rgba(31,36,39,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Allegations-Header {
+	left: 131px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(255,255,255,0.902);
+}
+#n_3292018 {
+	left: 50.643px;
+	top: 219.251px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.36px;
+}
+#Allegation_Neglect_of_Duty____ {
+	left: 50.643px;
+	top: 238.595px;
+	position: absolute;
+	overflow: visible;
+	width: 259.715px;
+	height: 41.4549560546875px;
+	line-height: 14px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Helvetica-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(238,73,79,1);
+	letter-spacing: 0.46px;
+}
+#Exonerated {
+	left: 50.643px;
+	top: 273.678px;
+	position: absolute;
+	overflow: visible;
+	width: 259.715px;
+	height: 12.74505615234375px;
+	line-height: 31.200000762939453px;
+	margin-top: -10.600000381469727px;
+	text-align: left;
+	font-family: Helvetica-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.46px;
+}
+#n_1302017 {
+	left: 50.643px;
+	top: 352.465px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.36px;
+}
+#Allegation_Neglect_of_Duty_____bj {
+	left: 50.643px;
+	top: 371.809px;
+	position: absolute;
+	overflow: visible;
+	width: 259.715px;
+	height: 41.4549560546875px;
+	line-height: 14px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Helvetica-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(238,73,79,1);
+	letter-spacing: 0.46px;
+}
+#Not_Sustained {
+	left: 50.643px;
+	top: 406.891px;
+	position: absolute;
+	overflow: visible;
+	width: 259.715px;
+	height: 12.74505615234375px;
+	line-height: 31.200000762939453px;
+	margin-top: -10.600000381469727px;
+	text-align: left;
+	font-family: Helvetica-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.46px;
+}
+#Footer {
+	position: absolute;
+	width: 360px;
+	height: 184px;
+	left: 0px;
+	top: 716px;
+	overflow: visible;
+}
+#Footer-box {
+	fill: rgba(68,68,68,1);
+}
+.Footer-box {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 184px;
+	left: 0px;
+	top: 0px;
+}
+#Footer-text {
+	left: 30px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 114px;
+	line-height: 20px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Main_Title {
+	position: absolute;
+	width: 182.912px;
+	height: 41.48px;
+	left: 75.5px;
+	top: 5.26px;
+	overflow: visible;
+}
+#badge-white {
+	position: absolute;
+	width: 49.921px;
+	height: 41.48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Boston_Cop_Track {
+	left: 43.912px;
+	top: 13.089px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Hamburger {
+	fill: rgba(255,255,255,1);
+}
+.Hamburger {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 16px;
+	transform: matrix(1,0,0,1,16,17.5) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
